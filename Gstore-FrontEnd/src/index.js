@@ -13,8 +13,10 @@ ReactDOM.render(
     <>
       <Navbar/>
       <Navbar2/>
-      <Slider/>
-      <div className="card">
+      <div className="card0">
+        <Slider/>
+      </div>
+      <div className="card1">
         <Card/>
         <Card/>
         <Card/>
@@ -25,7 +27,7 @@ ReactDOM.render(
         <Card2/>
         <Card2/>
       </div>
-      <div className="card">
+      <div className="card1">
         <Card/>
         <Card/>
         <Card/>

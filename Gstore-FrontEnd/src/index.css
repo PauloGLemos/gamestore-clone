@@ -8,10 +8,20 @@
 }
 
 body{
-  background-color: #272727;
+  background-color: #1b3951;
 }
 
-.card{
+text{
+  align-items: center;
+  justify-content: center;
+  color: aliceblue;
+}
+
+.card0{
+  
+}
+
+.card1{
   display: flex;
   flex-direction: row;
   align-items: center;

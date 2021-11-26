@@ -1,12 +1,19 @@
 .image {
-  width: 52vw;
+  width: 35vw;
   padding-bottom: 10px;
 }
 
 .center{
-  display: flex ;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.left{
+  display: flex;
   align-items: center;
   justify-content: center;
+  background-color: aliceblue;
 }
 
 

@@ -1,0 +1,13 @@
+.image {
+  width: 52vw;
+  padding-bottom: 10px;
+}
+
+.center{
+  display: flex ;
+  align-items: center;
+  justify-content: center;
+}
+
+
+

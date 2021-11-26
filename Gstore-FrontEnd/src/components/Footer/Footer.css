@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #171a21;
+  margin-top: 10px;
+  padding: 1rem 0;
+  color: #fff;
+}
+
+.social {
+  font-size: 3.0em;
+}
